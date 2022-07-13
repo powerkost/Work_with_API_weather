@@ -7,7 +7,7 @@ const textInput = document.getElementById("text-input");
 const form = document.getElementById("form");
 
 let store = {
-  city: "Minsk",
+  city: "London",
   temperature: 0,
   observationTime: "00:00 AM",
   isDay: "yes",
